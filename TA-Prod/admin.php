@@ -63,7 +63,7 @@
                     Admin
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <li><a class="dropdown-item" href="?menu=ubah_pass">Ubah Password</a></li>
+                    <li><a class="dropdown-item" href="?menu=ubah_pass">Ubah-Password</a></li>
                 </ul>
             </li>
             <li class="nav-right">
